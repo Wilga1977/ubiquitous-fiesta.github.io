@@ -1,0 +1,47 @@
+#head {
+    background-image: url("../images/image1.jpeg");
+    height: 100px;
+}
+h1 {
+    text-align: center;
+    font-weight:bold;
+    font-size:100px;
+    color:khaki;
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: bisque;
+}
+.h2 {
+    font-size:32px;
+    font-weight:bold;
+    color:white;
+    text-align:center;
+}
+.bg-color1 {
+    background-color:mediumseagreen;
+}
+.bg-color2 {
+    background-color: lightcoral;
+}
+.bg-color3 {
+    background-color:skyblue;
+}
+span {
+    font-weight:bold;
+    color:blue;
+}
+main {
+    width:800px;
+    margin-left: 250px;
+}
+
+div img {
+    width:80%;
+    display:block;
+    margin:0 auto;
+    height:300px;
+}
+h3 {
+    text-align:center;
+}
